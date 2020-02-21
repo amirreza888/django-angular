@@ -2,10 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d1f3ab-e746-4fcf-a4d2-a0fee1fb39d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/flightscheduler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flightscheduler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flightscheduler/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/flightscheduler/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/.idea/frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/flight-scheduler/tslint.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flightscheduler/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="376">
+              <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -170,9 +203,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -187,12 +220,7 @@
           <expand>
             <path>
               <item name="flightscheduler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flightscheduler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="flight-scheduler" type="462c0819:PsiDirectoryNode" />
+              <item name="flightscheduler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,6 +231,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../frontend" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -264,16 +293,17 @@
       <workItem from="1582241248503" duration="292000" />
       <workItem from="1582280293731" duration="1122000" />
       <workItem from="1582294047840" duration="1143000" />
+      <workItem from="1582295510951" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24641000" />
+    <option name="totallyTimeSpent" value="25240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3592233" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.370319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,6 +374,16 @@
     <entry file="file://$PROJECT_DIR$/flights/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/flightscheduler/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#231#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flights/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -387,20 +427,10 @@
     <entry file="file://$PROJECT_DIR$/flights/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flightscheduler/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#231#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flightscheduler/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="376">
+          <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="13" />
         </state>
       </provider>
     </entry>
